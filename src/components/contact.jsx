@@ -22,10 +22,29 @@ function Contact() {
             <h3 class="text-2xl font-semibold mb-2">Contact Information</h3>
             <p>
               <i class="fas fa-phone-alt mr-2"></i>(123) 456-7890
-            </p>
-            <p>
-              <i class="fas fa-envelope mr-2"></i>
-              info@OluakaInstistute.@gmail.com
+              <p>
+                <a href="helot862@gmail.com" className="p-1">
+                  <i class="fas fa-envelope mr-2"></i>
+                </a>
+
+                <a href="http://wa.me/+2349168701867" className="p-1">
+                  <i class="fa-brands fa-square-whatsapp"></i>
+                </a>
+
+                <a href="#" className="p-1">
+                  {" "}
+                  <i class="fa-brands fa-telegram"></i>
+                </a>
+
+                <a href="#" className="p-1">
+                  <i class="fa-brands fa-square-instagram"></i>
+                </a>
+
+                <a href="#" className="p-1">
+                  {" "}
+                  <i class="fa-brands fa-facebook"></i>
+                </a>
+              </p>
             </p>
           </div>
         </div>

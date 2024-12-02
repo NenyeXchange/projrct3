@@ -3,7 +3,7 @@ function About() {
     <main class="container mx-auto p-6">
       <section class="bg-white p-6 rounded shadow-md">
         <h2 class="text-3xl font-bold mb-4" id="about">
-          About Greenwood High School
+          About Oluaka School
         </h2>
         <p class="mb-4">
           Oluaka High School has been a cornerstone of the Springfield community
@@ -44,7 +44,7 @@ function About() {
         </ul>
         <h3 class="text-2xl font-semibold mb-2">Our History</h3>
         <p class="mb-4">
-          Greenwood High School was established in 1950 with a vision to provide
+          Oluaka institution was established in 1950 with a vision to provide
           quality education to the children of Africa. Over the years, we have
           grown and evolved, adapting to the changing needs of our community
           while staying true to our core values. Today, we are proud to be a

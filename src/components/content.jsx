@@ -74,24 +74,31 @@ function Content() {
         <section class="bg-white p-6 rounded-lg shadow-lg mb-8">
           <h2 class="text-2xl font-bold mb-4">Upcoming Events</h2>
           <ul class="space-y-4">
-            <li class="flex items-center space-x-4">
-              <i class="fas fa-calendar-alt text-blue-600"></i>
+            <li class="flex items-center">
               <div>
-                <h3 class="text-xl font-bold">Parent-Teacher Conference</h3>
+                <h3 class="text-xl font-bold">
+                  <i class="fas fa-calendar-alt text-blue-600"></i>{" "}
+                  Parent-Teacher Conference
+                </h3>
                 <p>December 15, 2024</p>
               </div>
             </li>
-            <li class="flex items-center space-x-4">
-              <i class="fas fa-calendar-alt text-blue-600"></i>
+            <li class="flex items-center">
               <div>
-                <h3 class="text-xl font-bold">Winter Break</h3>
+                <h3 class="text-xl font-bold">
+                  {" "}
+                  <i class="fas fa-calendar-alt text-blue-600"></i> Winter Break
+                </h3>
                 <p>December 20, 2024 - January 3, 2024</p>
               </div>
             </li>
-            <li class="flex items-center space-x-4">
-              <i class="fas fa-calendar-alt text-blue-600"></i>
+            <li class="flex items-center ">
               <div>
-                <h3 class="text-xl font-bold">Spring Festival</h3>
+                <h3 class="text-xl font-bold">
+                  {" "}
+                  <i class="fas fa-calendar-alt text-blue-600"></i> Spring
+                  Festival
+                </h3>
                 <p>December 10, 2024</p>
               </div>
             </li>
